@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/vitadexio",
   "VITE_SEO_SITE_NAME": "Vitadex",
   "VITE_SEO_SITE_DESCRIPTION": "The Ethereum-Powered Perp Dex",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/vitadex-4741/",
+  "VITE_SEO_SITE_URL": "https://vitadex.io",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@vitadexio",
